@@ -1,0 +1,13 @@
+{
+    "song1": {
+        "data": "0078000408020105001c000f0a006400f4010a00000400000000000000000000000000000000025a0004000800011e08000c0001220c001000011e10001400012214001800011e18001c0001221c002000011e20002400012224002800011e28002c0001222c003000011e30003400012234003800011e38003c0001223c004000011e",
+        "mimeType": "application/mkcd-song",
+        "displayName": "boss music",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
